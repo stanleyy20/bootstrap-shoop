@@ -28,9 +28,9 @@ class ItemList {
     columnEl.classList.add('col-md-4');
     cardEl.classList.add('card', 'mb-4');
     imgEl.classList.add('card-img-top');
-    cardBodyEl.classList.add('card-body');
-    cardTitleEl.classList.add('card-title', 'mb-0');
-    cardDecriptionEl.classList.add('mt-0');
+    cardBodyEl.classList.add('card-body', 'p-0');
+    cardTitleEl.classList.add('card-title', 'mb-0', 'p-2');
+    cardDecriptionEl.classList.add('mt-0', 'p-2');
     cardPriceEl.classList.add('card-footer', 'text-center');
 
     cardTitleEl.innerText = name;
