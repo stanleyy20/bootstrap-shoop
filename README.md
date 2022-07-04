@@ -1,5 +1,5 @@
 
-<h1>My first bootstrap application s!!</h1>
+<h1>My first bootstrap application !!!</h1>
 
 Simple shop using JavaScript, HTML and Bootstrap 
 
